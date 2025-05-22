@@ -59,11 +59,11 @@ button {
 #save-el {
     text-shadow: 2px 2px #fff;
     background-color: white;
-    display: block; /* Change from inline to block to make it start on a new line */
-    width: 50%; /* Set the width to 50% */
-    margin: 0 auto; /* Center the element horizontally */
+    display: block; 
+    width: 50%; 
+    margin: 0 auto; 
     margin-top: 1rem;
-    text-align: center; /* Center the text inside the element */
+    text-align: center; 
 }
 #max-width{
     max-width: 1500px;
